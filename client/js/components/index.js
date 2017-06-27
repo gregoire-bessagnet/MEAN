@@ -17,6 +17,6 @@ components
   .component('users', usersComponent)
   .component('login', loginComponent)
   .component('signin', signinComponent)
-  .component('signup', signupComponent);
+  .component('signup', signupComponent)
 
 export default components.name;
